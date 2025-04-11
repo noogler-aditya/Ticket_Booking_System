@@ -16,4 +16,4 @@ A console-based application for movie ticket booking, allowing users to register
 1. **Prerequisites**: Ensure you have a C compiler (e.g., `gcc`).
 2. Clone the repository:
    ```bash
-   git clone https://github.com/your-username/movie-booking-system.git
+   git clone https://github.com/noogler-aditya/movie-booking-system.git
